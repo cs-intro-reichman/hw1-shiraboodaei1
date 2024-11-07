@@ -12,6 +12,6 @@ public class Bill3 {
 		// output 
 		System.out.println("Dear " + name3 + ", " +
 							name2 + ", and " + name1 + ": pay " + 
-							ceileDinerPrice + " Shekels each");
+							(double) ceileDinerPrice + " Shekels each");
 	}
 }
